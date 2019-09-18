@@ -1,3 +1,8 @@
+
+We have several [Olimex AVR-MT128 development boards](https://www.olimex.com/Products/AVR/Development/AVR-MT128/) that can be used for learning basics of embedded programming. These document provide instructions on how to integrate it with Arduino IDE.
+
+![Olimex AVR-MT128](https://www.olimex.com/Products/AVR/Development/AVR-MT128/images/thumbs/310x230/AVR-MT-128-01.jpg)
+
 # Setting up OLIMEX with Arduino
 
 1. Download the Arduino IDE
