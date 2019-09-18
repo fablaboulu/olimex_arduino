@@ -1,4 +1,5 @@
-#Setting up OLIMEX with Arduino
+# Setting up OLIMEX with Arduino
+
 1. Download the Arduino IDE
 a. tested version is 1.8.9, Zip file for non admin installation
 2. Extract all, navigate: ~\arduino-1.8.9-windows\arduino-1.8.9 and start “arduino.exe”
